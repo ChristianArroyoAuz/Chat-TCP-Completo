@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\bin\Debug\Cliente_1.exe.config
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\bin\Debug\Cliente_1.exe
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\bin\Debug\Cliente_1.pdb
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\obj\Debug\Cliente_1.Cliente.resources
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\obj\Debug\Cliente_1.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\obj\Debug\Cliente_1.exe
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Cliente_1\obj\Debug\Cliente_1.pdb

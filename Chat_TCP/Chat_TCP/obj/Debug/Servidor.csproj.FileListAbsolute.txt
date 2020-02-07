@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\bin\Debug\Proyecto_Chat_TCP.exe.config
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\bin\Debug\Proyecto_Chat_TCP.exe
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\bin\Debug\Proyecto_Chat_TCP.pdb
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\obj\Debug\Proyecto_Chat_TCP.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\obj\Debug\Proyecto_Chat_TCP.Servidor.resources
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\obj\Debug\Proyecto_Chat_TCP.exe
+C:\Users\Christian Arroyo\Desktop\Chat_TCP\Proyecto_Chat_TCP\obj\Debug\Proyecto_Chat_TCP.pdb
